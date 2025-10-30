@@ -1,6 +1,7 @@
 LINUX(CENTOS 7) Practical PROJECT
 
-This project documents my hands on experience using CENTOS 7 ON Oracle Virtualbox. It covers the installation process, basic and advanced linux commands and remote access setup using PuTTY and SSH configuration.
+This project documents my hands on experience using CENTOS 7 on Oracle Virtualbox. It covers the installation process, basic and advanced linux commands and remote access setup using PuTTY and SSH configuration.
+
 
 
 
