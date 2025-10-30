@@ -14,7 +14,7 @@
 
 4. Allocate Memory and Storage
 	•	Set Memory (RAM) to 1 GB (1024 MB).
-	•	Created a Virtual Hard Disk of 80 GB (VDI format, dynamically allocated).
+	•	Created a Virtual Hard Disk of 8 GB (VDI format, dynamically allocated).
 	•	Click Create.
 
 5. Start the Virtual Machine
