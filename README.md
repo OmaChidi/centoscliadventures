@@ -1,0 +1,2 @@
+# centoscliadventures
+Cent OS installation
