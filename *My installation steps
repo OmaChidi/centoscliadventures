@@ -1,0 +1,41 @@
+
+1. Download CentOS 7 ISO
+	•	Downloaded the CentOS 7 DVD ISO from the official CentOS website.
+
+2. Install and Open VirtualBox
+	•	Installed Oracle VirtualBox on my system.
+	•	Opened it to create a new virtual machine.
+
+3. Create a New Virtual Machine
+	•	Click New → name it CentOS 7.
+	•	Type: Linux
+	•	Version: Linux (64-bit)
+	•	Click Next.
+
+4. Allocate Memory and Storage
+	•	Set Memory (RAM) to 1 GB (1024 MB).
+	•	Created a Virtual Hard Disk of 8 GB (VDI format, dynamically allocated).
+	•	Click Create.
+
+5. Start the Virtual Machine
+	•	Click Start to boot it up.
+	•	If you see a message saying “No bootable medium found”, that means the ISO image isn’t attached yet.
+
+6. Attach the CentOS 7 ISO Image
+	•	Click the folder icon beside the optical drive.
+	•	Select the CentOS 7 ISO file and click Start again.
+	•	The CentOS installer should now launch.
+
+7. Install CentOS 7
+	•	Choose Install CentOS 7.
+	•	Select English as the language → click Continue.
+	•	Click Installation Destination → confirm disk → Done.
+	•	Click Begin Installation.
+
+8. Wait for installation
+	•	While installation is in progress:
+	•	Wait for completion, then click Reboot.
+
+9. First Boot and Login
+	•	Log in using the user credentials created(you will most likely not have password, you can make a user because you need it for connecting to putty.
+	•	CentOS 7 loads successfully
