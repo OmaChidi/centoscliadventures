@@ -2,6 +2,8 @@ LINUX(CENTOS 7) Practical PROJECT
 
 This project documents my hands on experience using CENTOS 7 ON Oracle Virtualbox. It covers the installation process, basic and advanced linux commands and remote access setup using PuTTY and SSH configuration.
 
+
+
 PROJECT OVERVIEW
 
 Basic Commands- Covers file and directory operations such as mkdir,cd,touch e.t.c
@@ -14,6 +16,7 @@ Setup- Contails pictures of interface and VM configurations.
 
 
 
+
 TOOLS USED
 
 Oracle VirtualBox- to create and manage the VM
@@ -22,7 +25,9 @@ CentOS 7 ISO image- for linux installation
 
 PuTTY- for remote SSH connection
 
-CLI- For executing and testing commands
+Linux CLI- For executing and testing commands
+
+
 
 
 SKILLS I APPLIED
